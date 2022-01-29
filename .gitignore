@@ -2,7 +2,6 @@ Temp/
 *.csproj
 Library/
 UserSettings/
-ProjectSettings/
 Logs/
 *.log
 !Assets/
