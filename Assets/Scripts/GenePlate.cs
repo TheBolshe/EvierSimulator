@@ -7,7 +7,7 @@ public class GenePlate : MonoBehaviour
     public GameObject assiette;
 
     int cpt;
-    int lim;
+    int lim=1000;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,7 @@ public class GenePlate : MonoBehaviour
         cpt++;
         if (cpt==lim){
             cpt=0;
-            lim=(int)Random.Range(800, 1200);
+            lim=(int)Random.Range(500, 1500);
             Instantiate(assiette);
         }
     }
