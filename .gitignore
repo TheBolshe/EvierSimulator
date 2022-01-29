@@ -1,6 +1,7 @@
-Temp
-.csproj
-Library
-UserSettings
-ProjectSettings
-Logs
+Temp/
+*.csproj
+Library/
+UserSettings/
+ProjectSettings/
+Logs/
+*.log
