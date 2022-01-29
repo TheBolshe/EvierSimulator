@@ -1,4 +1,6 @@
 Temp
 .csproj
-.log
 Library
+UserSettings
+ProjectSettings
+Logs
