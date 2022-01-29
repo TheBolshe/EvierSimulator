@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GenePlate : MonoBehaviour
+public class PlateGenerator : MonoBehaviour
 {
     public GameObject assiette;
 
